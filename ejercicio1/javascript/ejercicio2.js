@@ -1,4 +1,4 @@
-const nombre = "carlos";
+const nombre = "jhoan";
 const edad = 17;
 const plan = 2;
 

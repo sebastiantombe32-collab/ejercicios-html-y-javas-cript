@@ -1,9 +1,9 @@
 const estudiantes = [
     { nombre: "Ana", nota: 4.5 },
     { nombre: "Luis", nota: 3.2 },
-    { nombre: "Pedro", nota: 4.8 },
+    { nombre: "xiomara", nota: 4.8 },
     { nombre: "María", nota: 2.9 },
-    { nombre: "Sara", nota: 3.7 },
+    { nombre: "andres", nota: 3.7 },
     { nombre: "Juan", nota: 4.0 }
 ];
 

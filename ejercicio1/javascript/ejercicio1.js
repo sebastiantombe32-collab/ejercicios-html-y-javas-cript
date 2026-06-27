@@ -1,5 +1,4 @@
-
-const nombre = "cata";
+const nombre = "sebastian";
 const peso = 4;
 const ciudad = "Bogotá";
 
